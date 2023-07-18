@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jiawei Li.
-- 👀 I’m interested in neuroscience and on the way to be an independent researcher.
-- 🌱 I’m currently learning how to program in python (after using matlab for so many years.
+- 👀 I’m interested in neuroscience and I am doing my postdoc in Berlin now.
+- 🌱 I’m currently learning how to program in python and German.
 
 
 <!---
